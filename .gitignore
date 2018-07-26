@@ -1,0 +1,6 @@
+#gitignore
+
+*~
+.RHistory
+LMM
+*.rtf
